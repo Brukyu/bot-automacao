@@ -12,11 +12,6 @@ class Bot(DesktopBot):
         if not self.find( "estoque", matching=0.97, waiting_time=10000):
             self.not_found("estoque")
         self.click()
-        if not self.find( "cfop", matching=0.97, waiting_time=10000):
-            self.not_found("cfop")
-        self.click_relative(121, 13)
-        if not self.find( "clique", matching=0.97, waiting_time=10000):
-            self.not_found("clique")
         if not self.find( "icms", matching=0.97, waiting_time=10000):
             self.not_found("icms")
         self.click()
@@ -28,7 +23,7 @@ class Bot(DesktopBot):
         self.type_down()
         self.enter()
         #selecionando Origem
-        self.tab()
+        self.tab()  
         self.tab()
         self.tab()
         self.tab()
@@ -57,7 +52,7 @@ class Bot(DesktopBot):
         self.type_down()
         self.type_down()
         self.type_down()
-        self.type_down()
+        self.type_down()                
         if not self.find( "ok", matching=0.97, waiting_time=10000):
             self.not_found("ok")
         self.click()
