@@ -1,7 +1,6 @@
 
 from typing import KeysView
 from botcity.core import DesktopBot
-import pyautogui
 
 class Bot(DesktopBot):
     def action(self, execution=None):
