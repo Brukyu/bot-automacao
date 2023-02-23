@@ -1,4 +1,0 @@
-# brukyu
-
-first project
-
