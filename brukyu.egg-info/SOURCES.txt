@@ -1,0 +1,29 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+brukyu/__init__.py
+brukyu/__main__.py
+brukyu/bot.py
+brukyu.egg-info/PKG-INFO
+brukyu.egg-info/SOURCES.txt
+brukyu.egg-info/dependency_links.txt
+brukyu.egg-info/requires.txt
+brukyu.egg-info/top_level.txt
+brukyu/resources/assisste.png
+brukyu/resources/assisten.png
+brukyu/resources/chaguinha.png
+brukyu/resources/clicar 2.png
+brukyu/resources/clicar.png
+brukyu/resources/click.png
+brukyu/resources/cliclar 23.png
+brukyu/resources/clique.png
+brukyu/resources/encontrar.png
+brukyu/resources/estoque.png
+brukyu/resources/icms.png
+brukyu/resources/ios.png
+brukyu/resources/mercadoria.png
+brukyu/resources/senha.png
+brukyu/resources/small.png
+brukyu/resources/start.png
