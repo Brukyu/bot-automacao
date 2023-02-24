@@ -1,4 +1,4 @@
-# Bot de Automação
+## Bot de Automação 🤖
 <p>Esse é um código em Python que utiliza a biblioteca BotCity.Core para automatizar tarefas em uma aplicação chamada Small Start. O código realiza uma série de ações, como preencher campos, selecionar opções e clicar em botões, seguindo uma sequência específica. Ele pode ser utilizado como exemplo para automação de outras aplicações que utilizem uma interface gráfica.</p>
 <p>Para rodar o código, é necessário:</p>
 <ul>
